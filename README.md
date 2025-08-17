@@ -31,6 +31,6 @@ An intelligent Streamlit web app that allows recruiters to upload a resume and p
 
 - scikit-learn → TF-IDF vectorization & similarity
 
-Sentence Transformers → Semantic similarity
+- Sentence Transformers → Semantic similarity
 
-PyMuPDF / python-docx → Resume text extraction
+- PyMuPDF / python-docx → Resume text extraction
